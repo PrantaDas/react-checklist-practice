@@ -1,0 +1,10 @@
+.todo-container{
+    box-shadow: rgba(50, 50, 105, 0.15) 0px 2px 5px 0px, rgba(0, 0, 0, 0.05) 0px 1px 1px 0px;
+    padding: 10px 15px;
+    margin: 20px auto;
+    background-image: linear-gradient(to right, #8360c3, #2ebf91);
+    width: 100%;
+    gap: 20px;
+    display: grid;
+    grid-gap: 20px;
+}

@@ -1,0 +1,7 @@
+.article-head{
+    font-style: italic;
+    padding: 10px 15px;
+    line-height: 2;
+    border-radius: 15px;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 0px 16px; ;
+}
